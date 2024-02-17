@@ -1,5 +1,5 @@
 {
-  "name": "goryn-clade/pathfinder_esi",
+  "name": "petelewis/pathfinder_esi",
   "description": "ESI API library for Pathfinder",
   "type": "library",
   "homepage": "https://github.com/goryn-clade/pathfinder_esi",
@@ -18,7 +18,7 @@
   "repositories": [
     {
       "type": "vcs",
-      "url": "https://github.com/goryn-clade/pathfinder_esi"
+      "url": "https://github.com/petelewis/pathfinder_esi"
     }
   ],
   "autoload": {
